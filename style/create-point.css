@@ -25,6 +25,7 @@
 form {
     background-color: white;
     margin-top: 80px;
+    /* padding = preenchimento */
     padding: 64px;
     border-radius: 8px;
     max-width: 730px;
